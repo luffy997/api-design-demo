@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dev.mapper.UsersMapper">
+
+<!--    <insert id="save" parameterType="User" useGeneratedKeys="true" keyProperty="userId"   >-->
+<!--        insert into users(usernam,password,salt,userTel,userQq,userMail,userAvatar) values( #{username} , #{password} , #{salt},#{userTel},#{userQq},#{userMail},#{userAvatar})-->
+<!--    </insert>-->
+
+<!--    <select id="findByUserName" parameterType="String" resultType="User">-->
+<!--        select id,username,password,salt from users where  username=#{username}-->
+<!--    </select>-->
+</mapper>
