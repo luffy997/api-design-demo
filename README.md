@@ -12,19 +12,19 @@ api-design-demo ----src --- config
 
 						 handler
 
-            					 exception
+             exception
 
-                                                  handler
+             handler
 
-                                                  shiro
+             shiro
 
-						   util
+						 util
 
-					            vo
+					   vo
 
-                                      resources
+             resources
 
-			                test
+			       test
 
 3.使用方式
 
@@ -34,7 +34,6 @@ api-design-demo ----src --- config
 - config包下配置了跨域，Druid，全局异常处理，MybatisPlus，Redis，响应状态处理，Shrio，Swagger，可以根据业务需求，开启是否使用他们
 
 4. 测试
-见博客
 5.总结
 
 自此整个后端接口基本体系就构建完毕了
