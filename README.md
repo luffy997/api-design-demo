@@ -25,7 +25,8 @@ api-design-demo ----src ---
 - 配置scr下的util里的DevGenerator类中的数据源参数，运行该类即可自动生成实体类，数据访问层，服务层，服务实现层，控制器层
 - config包下配置了跨域，Druid，全局异常处理，MybatisPlus，Redis，响应状态处理，Shrio，Swagger，可以根据业务需求，开启是否使用他们
 
-4. 测试
+4.测试
+
 5.总结
 
 自此整个后端接口基本体系就构建完毕了
