@@ -6,25 +6,17 @@
 
 2.项目结构
 
-api-design-demo ----src --- config
-
-						 enums		
-
-						 handler
-
-             exception
-
-             handler
-
-             shiro
-
-						 util
-
-					   vo
-
-             resources
-
-			       test
+api-design-demo ----src --- 
+	    config
+	    enums		
+	    handler
+	    exception
+	    handler
+	    shiro
+	    util
+	    vo
+	resources
+	test
 
 3.使用方式
 
